@@ -206,6 +206,14 @@ The INV X1 cell was characterized for:
 
 ![INV X1 Power](images/10_inv_x1_power.png)
 
+### Results
+
+The INV X1 cell was characterized using pre-layout and post-layout
+simulations. Timing and power parameters were analyzed to evaluate the
+effect of layout parasitics.
+
+![INV X1 Results](images/06_inv_x1_results.png)
+
 ---
 
 # 2. AOI21 X1
@@ -241,6 +249,14 @@ The implementation includes:
 
 ![AOI21 X1 Testbench](images/15_aoi21_x1_testbench.png)
 
+### Results
+
+The AOI21 X1 cell was characterized using pre-layout and post-layout
+simulations. Timing and power parameters were analyzed to evaluate the
+effect of layout parasitics.
+
+![AOI21 X1 Results](images/16_aoi21_x1_results.png)
+
 ---
 
 # 3. AOI211 X1
@@ -267,6 +283,14 @@ logic and the adopted 9-track standard-cell architecture.
 ### Testbench
 
 ![AOI211 X1 Testbench](images/20_aoi211_x1_testbench.png)
+
+### Results
+
+The AOI211 X1 cell was characterized using pre-layout and post-layout
+simulations. Timing and power parameters were analyzed to evaluate the
+effect of layout parasitics.
+
+![AOI211 X1 Results](images/21_aoi211_x1_results.png)
 
 ---
 
@@ -295,6 +319,14 @@ schematic-to-layout and verification methodology.
 
 ![AOI22 X1 Testbench](images/25_aoi22_x1_testbench.png)
 
+### Results
+
+The AOI22 X1 cell was characterized using pre-layout and post-layout
+simulations. Timing and power parameters were analyzed to evaluate the
+effect of layout parasitics.
+
+![AOI22 X1 Results](images/26_aoi22_x1_results.png)
+
 ---
 
 # 5. AOI221 X1
@@ -321,6 +353,14 @@ design and verification methodology.
 ### Testbench
 
 ![AOI221 X1 Testbench](images/30_aoi221_x1_testbench.png)
+
+### Results
+
+The AOI221 X1 cell was characterized using pre-layout and post-layout
+simulations. Timing and power parameters were analyzed to evaluate the
+effect of layout parasitics.
+
+![AOI221 X1 Results](images/31_aoi221_x1_results.png)
 
 ---
 
