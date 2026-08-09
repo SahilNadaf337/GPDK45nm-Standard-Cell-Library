@@ -614,9 +614,7 @@ KLE Technological University
 ### Areas of Interest
 
 - Analog & Mixed-Signal IC Design
-- Digital VLSI
 - Standard Cell Design
 - Custom Layout
 - Physical Verification
-- ASIC Design
 - Semiconductor Technology
